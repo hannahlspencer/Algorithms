@@ -1,2 +1,3 @@
 # Algorithms
-Implementations of and information about different algorithms
+- Examples of implementations of different algorithms
+- Answers to exercises from Algorithms 4th Ed. text book
