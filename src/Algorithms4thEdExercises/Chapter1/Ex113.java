@@ -1,4 +1,4 @@
-package Chapter1;
+package Algorithms4thEdExercises.Chapter1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Chapter1;
+package Algorithms4thEdExercises.Chapter1;
 
 public class Ex111and112 {
     //1.1.1
