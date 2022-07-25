@@ -1,6 +1,6 @@
 package Algorithms4thEdExercises.Chapter1;
 
-public class Ex111and112 {
+public class Ex1101and1102 {
     //1.1.1
     //Give the value of each of the following expressions:
     public static void ex111() {

@@ -1,6 +1,6 @@
 package Algorithms4thEdExercises.Chapter1;
 
-public class Ex117 {
+public class Ex1107 {
     // 1.1.7 Give the value printed by each of the following code fragments:
 
     //  a. double t = 9.0;

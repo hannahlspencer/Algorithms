@@ -1,6 +1,6 @@
 package Algorithms4thEdExercises.Chapter1;
 
-public class Ex115 {
+public class Ex1105 {
     // 1.1.5 Write a code fragment that prints true if the double variables
     // x and y are both strictly between 0 and 1 and false otherwise.
 

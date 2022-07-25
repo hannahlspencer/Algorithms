@@ -1,6 +1,6 @@
 package Algorithms4thEdExercises.Chapter1;
 
-public class Ex116 {
+public class Ex1106 {
     // 1.1.6 What does the following program print?
     //    int f = 0;
     //    int g = 1;

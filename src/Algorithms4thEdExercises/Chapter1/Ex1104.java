@@ -1,6 +1,6 @@
 package Algorithms4thEdExercises.Chapter1;
 
-public class Ex114 {
+public class Ex1104 {
 //    1.1.4
 //    What(if anything) is wrong with each of the following statements?
 

@@ -2,7 +2,7 @@ package Algorithms4thEdExercises.Chapter1;
 
 import java.util.Scanner;
 
-public class Ex113 {
+public class Ex1103 {
     //1.1.3 Write a program that takes three integer command-line arguments and
     // prints equal if all three are equal, and not equal otherwise.
 
